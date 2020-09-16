@@ -17,7 +17,7 @@ function draw() {
     // Logic
     xVals[0] += Math.randomDec (-5, 5);
     yVals[0] += Math.randomDec(-5, 5);
-    
+
     // Drawing
     ctx.clearRect(0, 0, cnv.width, cnv.height);
 
